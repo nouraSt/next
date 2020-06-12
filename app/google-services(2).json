@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691235622550",
+    "firebase_url": "https://less-f6de0.firebaseio.com",
+    "project_id": "less-f6de0",
+    "storage_bucket": "less-f6de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691235622550:android:fde66e0e546283261c3cb7",
+        "android_client_info": {
+          "package_name": "com.education.next"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691235622550-2aq56oa57srta189rrcah245dssd3kds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0HnOjOhMPEhqO98Zfb71BgZqNIixOuaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691235622550-2aq56oa57srta189rrcah245dssd3kds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
